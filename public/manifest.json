@@ -12,6 +12,5 @@
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff",
-  "gcm_sender_id": "103953800507",
-  "messaging_sender_id": "695744899438"
+  "gcm_sender_id": "103953800507"
 }
